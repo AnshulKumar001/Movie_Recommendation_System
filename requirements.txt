@@ -1,0 +1,17 @@
+streamlit
+pandas
+requests
+
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+
+
+
