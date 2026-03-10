@@ -1,4 +1,4 @@
-# 🎬 Movie Recommendation System
+# 🎬 Movie Recommendation System Using Machine Learning 
 
 A Movie Recommendation System that suggests movies to users based on their preferences.  
 The system uses machine learning techniques to analyze movie data and recommend similar movies.
